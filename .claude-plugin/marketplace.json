@@ -8,9 +8,9 @@
   },
   "plugins": [
     {
-      "name": "tm-marketing-core",
+      "name": "tm-marketing-central",
       "description": "Marketing skills for Ticketmaster's central marketing org: brand-voice copywriting, B2C campaign briefs, B2B campaigns, localisation and social performance insight, with a Confluence connector.",
-      "version": "1.5.2",
+      "version": "2.0.0",
       "author": {
         "name": "Ticketmaster Marketing",
         "email": "MarketingServices@ticketmaster.co.uk"

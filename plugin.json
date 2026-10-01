@@ -1,11 +1,18 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "tm-marketing-core",
-  "version": "1.5.2",
+  "name": "tm-marketing-central",
+  "version": "2.0.0",
   "description": "Marketing skills for Ticketmaster's central marketing org: brand-voice copywriting, B2C campaign briefs, B2B campaigns, localisation and social performance insight, with a Confluence connector.",
   "author": {
     "name": "Ticketmaster Marketing",
     "email": "MarketingServices@ticketmaster.co.uk"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "TM Marketing Central"
+      }
+    }
+  }
 }
