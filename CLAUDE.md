@@ -1,4 +1,4 @@
-# TM Marketing Central Plugin
+# tm-marketing-core Plugin
 
 This plugin provides marketing skills and the LN Confluence connector for Ticketmaster's central marketing org (B2C and B2B teams).
 
