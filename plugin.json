@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "tm-marketing-core",
-  "version": "1.5.1",
-  "description": "Marketing skills and tools for Ticketmaster's central marketing org — copywriting, translation, campaign planning, and more.",
+  "version": "1.5.2",
+  "description": "Marketing skills for Ticketmaster's central marketing org: brand-voice copywriting, B2C campaign briefs, B2B campaigns, localisation and social performance insight, with a Confluence connector.",
   "author": {
     "name": "Ticketmaster Marketing",
     "email": "MarketingServices@ticketmaster.co.uk"

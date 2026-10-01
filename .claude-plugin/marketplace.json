@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "tm-marketing-marketplace",
-  "description": "Ticketmaster central marketing org — Claude Code plugins for B2C and B2B marketing teams",
+  "description": "Ticketmaster central marketing org — plugins for B2C and B2B marketing teams",
   "owner": {
     "name": "Ticketmaster Marketing",
     "email": "MarketingServices@ticketmaster.co.uk"
@@ -9,8 +9,8 @@
   "plugins": [
     {
       "name": "tm-marketing-core",
-      "description": "Marketing skills and tools for Ticketmaster's central marketing org — copywriting, translation, campaign planning, and more.",
-      "version": "1.5.1",
+      "description": "Marketing skills for Ticketmaster's central marketing org: brand-voice copywriting, B2C campaign briefs, B2B campaigns, localisation and social performance insight, with a Confluence connector.",
+      "version": "1.5.2",
       "author": {
         "name": "Ticketmaster Marketing",
         "email": "MarketingServices@ticketmaster.co.uk"
