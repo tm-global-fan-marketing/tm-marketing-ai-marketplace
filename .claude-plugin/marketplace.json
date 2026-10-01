@@ -4,16 +4,16 @@
   "description": "Ticketmaster central marketing org — Claude Code plugins for B2C and B2B marketing teams",
   "owner": {
     "name": "Ticketmaster Marketing",
-    "email": "marketing-tech@ticketmaster.com"
+    "email": "MarketingServices@ticketmaster.co.uk"
   },
   "plugins": [
     {
       "name": "tm-marketing-core",
       "description": "Marketing skills and tools for Ticketmaster's central marketing org — copywriting, translation, campaign planning, and more.",
-      "version": "1.5.0",
+      "version": "1.5.1",
       "author": {
         "name": "Ticketmaster Marketing",
-        "email": "marketing-tech@ticketmaster.com"
+        "email": "MarketingServices@ticketmaster.co.uk"
       },
       "source": {
         "source": "github",

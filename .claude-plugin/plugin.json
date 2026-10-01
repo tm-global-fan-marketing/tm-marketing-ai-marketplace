@@ -1,12 +1,12 @@
 {
   "name": "tm-marketing-core",
   "description": "Marketing skills and tools for Ticketmaster's central marketing org — copywriting, translation, campaign planning, and more.",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "author": {
     "name": "Ticketmaster Marketing",
-    "email": "marketing-tech@ticketmaster.com"
+    "email": "MarketingServices@ticketmaster.co.uk"
   },
-  "homepage": "https://git.tmaws.io/andrew.wragg/claude-plugin-marketing-central",
-  "repository": "git@git.tmaws.io:andrew.wragg/claude-plugin-marketing-central.git",
+  "homepage": "https://github.com/tm-global-fan-marketing/tm-marketing-ai-marketplace",
+  "repository": "https://github.com/tm-global-fan-marketing/tm-marketing-ai-marketplace.git",
   "license": "MIT"
 }
